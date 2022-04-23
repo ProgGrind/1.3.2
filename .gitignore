@@ -8,6 +8,7 @@ HELP.md
 .gradle
 *.gradle
 !settings.gradle 
+!build.gradle
 build/
 
 ### STS ###
